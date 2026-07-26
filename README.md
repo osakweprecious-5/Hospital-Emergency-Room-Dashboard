@@ -162,7 +162,7 @@ Author
 
 *Precious Osakwe*
 
-Entry-Level Data Analyst | Power BI | Excel | SQL
+Data Analyst | Power BI | Excel | SQL
 
  Contact
 
