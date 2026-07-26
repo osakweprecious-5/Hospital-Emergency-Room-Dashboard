@@ -140,11 +140,11 @@ Some patient records contained missing *Satisfaction Scores*. These records were
 
 ## Patient Demographics
 
-![image](
+![image alt](https://github.com/osakweprecious-5/Hospital-Emergency-Room-Dashboard/blob/497bd3848cf5ab0f6928d0ed8e97c9514866acb4/Demographics.png)
 
 ## Operations & Patient Experience
 
-[Operations & Experience Dashboard](https://github.com/osakweprecious-5/Hospital-Emergency-Room-Dashboard/blob/main/Operations%20%26%20Experience.png)
+![image alt](https://github.com/osakweprecious-5/Hospital-Emergency-Room-Dashboard/blob/497bd3848cf5ab0f6928d0ed8e97c9514866acb4/Operations%20%26%20Experience.png)
 
 # Skills Demonstrated
 
