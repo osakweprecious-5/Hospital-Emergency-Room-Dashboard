@@ -1,11 +1,11 @@
 # Hospital-Emergency-Room-Dashboard
 Interactive Power BI dashboard analyzing Emergency Room performance, patient demographics, and operational efficiency.
 
-Project Overview : 
+## Project Overview 
 
 The Hospital Emergency Room Dashboard is an interactive Power BI report developed to analyze Emergency Room (ER) patient data. The dashboard provides valuable insights into patient demographics, hospital operations, and patient experience through interactive visualizations and key performance indicators (KPIs). It is designed to support data-driven decision-making and identify opportunities to improve Emergency Room efficiency.
 
-Business Objectives: 
+## Business Objectives
 
 This dashboard was developed to answer the following business questions:
 - How many patients visited the Emergency Room?
@@ -17,20 +17,20 @@ This dashboard was developed to answer the following business questions:
 - Which departments experience the longest waiting times?
 - Does waiting time influence patient satisfaction?
 
-Dashboard Pages
+# Dashboard Pages
 
-Page 1 – Overview
+## Page 1 – Overview
 
 Provides a high-level summary of Emergency Room performance.
 
-Key Performance Indicators (KPIs)
+### Key Performance Indicators (KPIs)
 
 - Total Patients
 - Admission Rate
 - Average Waiting Time
 - Average Satisfaction Score
 
-Filters (Slicers)
+### Filters (Slicers)
 
 The dashboard includes interactive slicers that allow users to filter all visuals dynamically. The available slicers are:
 
@@ -38,41 +38,41 @@ The dashboard includes interactive slicers that allow users to filter all visual
 - Department Referral
 - Admission Status
   
-Visuals
+### Visuals
 
 - Patient Visits Trend
 - Admission Status
 - Patients by Department Referral
 
- Page 2 – Patient Demographics
+## Page 2 – Patient Demographics
 
 Provides insights into the characteristics of Emergency Room patients.
 
-Visuals
+### Visuals
 
 - Patients by Gender
 - Patients by Race
 - Patients by Age Group & Admission Status
 
-Page 3 – Operations & Patient Experience
+## Page 3 – Operations & Patient Experience
 
 Evaluates operational efficiency and patient experience.
 
-Filters (Slicers)
+### Filters (Slicers)
 
 The available slicers are:
 
 - Year
 - Department Referral
 
-Visuals
+### Visuals
 
 - Average Waiting Time by Department
 - Satisfaction by Waiting Time Group
 - Average Satisfaction by Department
 - Satisfaction Score Distribution
 
-Key Metrics
+# Key Metrics
 
 - *Total Patients:* 9,216
 - *Admission Rate:* 50.04%
@@ -81,7 +81,7 @@ Key Metrics
 
 *Average satisfaction score was calculated using records with available satisfaction scores only.
 
- Key Insights
+# Key Insights
 
 - The Emergency Room recorded *9,216 patient visits*, indicating substantial patient demand during the reporting period.
 - Approximately *50% of patients were admitted*, while the remaining patients were discharged after assessment or treatment.
@@ -92,7 +92,7 @@ Key Metrics
 - Patient satisfaction analysis was performed using only records with completed satisfaction scores because some records contained missing feedback.
 - Comparing waiting time groups with satisfaction scores helps assess the relationship between service delays and patient experience.
 
-Data Preparation
+# Data Preparation
 
 The dataset was cleaned and transformed in Power Query before analysis.
 
@@ -105,14 +105,14 @@ The following steps were performed:
 - Developed DAX measures for KPI calculations.
 - Applied data formatting and optimized the data model for reporting.
 
- Tools Used
+# Tools Used
 
 - Power BI
 - Power Query
 - DAX
 - Microsoft Excel
 
-Dataset
+# Dataset
 
 The dataset contains *9,216 Emergency Room patient records* and includes the following fields:
 
@@ -127,26 +127,26 @@ The dataset contains *9,216 Emergency Room patient records* and includes the fol
 - Satisfaction Score
 - Case Management Indicator
 
-Data Quality Note
+# Data Quality Note
 
 Some patient records contained missing *Satisfaction Scores*. These records were retained to preserve patient counts and operational analyses. Satisfaction-related calculations were performed only on records with available satisfaction scores.
 
 
-Dashboard Preview
+# Dashboard Preview
 
-Overview
+## Overview
 
 [Overview Dashboard](https://github.com/osakweprecious-5/Hospital-Emergency-Room-Dashboard/blob/main/Overview.png)
 
-Patient Demographics
+## Patient Demographics
 
 [Demographics Dashboard](https://github.com/osakweprecious-5/Hospital-Emergency-Room-Dashboard/blob/main/Demographics.png)
 
-Operations & Patient Experience
+## Operations & Patient Experience
 
 [Operations & Experience Dashboard](https://github.com/osakweprecious-5/Hospital-Emergency-Room-Dashboard/blob/main/Operations%20%26%20Experience.png)
 
-Skills Demonstrated
+# Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
@@ -158,12 +158,12 @@ Skills Demonstrated
 - Business Intelligence
 - Data Storytelling
 
-Author
+# Author
 
 *Precious Osakwe*
 
 Data Analyst | Power BI | Excel | SQL
 
- Contact
+## Contact
 
 If you have any questions or feedback about this project, feel free to connect with me on GitHub or LinkedIn.
