@@ -1,10 +1,13 @@
 # Hospital-Emergency-Room-Dashboard
 Interactive Power BI dashboard analyzing Emergency Room performance, patient demographics, and operational efficiency.
+
 Project Overview : 
 
 The Hospital Emergency Room Dashboard is an interactive Power BI report developed to analyze Emergency Room (ER) patient data. The dashboard provides valuable insights into patient demographics, hospital operations, and patient experience through interactive visualizations and key performance indicators (KPIs). It is designed to support data-driven decision-making and identify opportunities to improve Emergency Room efficiency.
 
-Business Objectives: This dashboard was developed to answer the following business questions:
+Business Objectives: 
+
+This dashboard was developed to answer the following business questions:
 - How many patients visited the Emergency Room?
 - What percentage of patients were admitted?
 - How has patient volume changed over time?
@@ -27,6 +30,14 @@ Key Performance Indicators (KPIs)
 - Average Waiting Time
 - Average Satisfaction Score
 
+Filters (Slicers)
+
+The dashboard includes interactive slicers that allow users to filter all visuals dynamically. The available slicers are:
+
+- Year
+- Department Referral
+- Admission Status
+  
 Visuals
 
 - Patient Visits Trend
@@ -46,6 +57,13 @@ Visuals
 Page 3 – Operations & Patient Experience
 
 Evaluates operational efficiency and patient experience.
+
+Filters (Slicers)
+
+The available slicers are:
+
+- Year
+- Department Referral
 
 Visuals
 
@@ -94,7 +112,7 @@ The following steps were performed:
 - DAX
 - Microsoft Excel
 
- Dataset
+Dataset
 
 The dataset contains *9,216 Emergency Room patient records* and includes the following fields:
 
@@ -113,25 +131,22 @@ Data Quality Note
 
 Some patient records contained missing *Satisfaction Scores*. These records were retained to preserve patient counts and operational analyses. Satisfaction-related calculations were performed only on records with available satisfaction scores.
 
----
 
 Dashboard Preview
 
 Overview
 
-(Insert Overview Dashboard Screenshot Here)
+[Overview Dashboard](https://github.com/osakweprecious-5/Hospital-Emergency-Room-Dashboard/blob/main/Overview.png)
 
-## Patient Demographics
+Patient Demographics
 
-(Insert Demographics Dashboard Screenshot Here)
+[Demographics Dashboard](https://github.com/osakweprecious-5/Hospital-Emergency-Room-Dashboard/blob/main/Demographics.png)
 
-## Operations & Patient Experience
+Operations & Patient Experience
 
-(Insert Operations Dashboard Screenshot Here)
+[Operations & Experience Dashboard](https://github.com/osakweprecious-5/Hospital-Emergency-Room-Dashboard/blob/main/Operations%20%26%20Experience.png)
 
----
-
- Skills Demonstrated
+Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
