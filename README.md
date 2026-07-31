@@ -5,6 +5,14 @@ Interactive Power BI dashboard analyzing Emergency Room performance, patient dem
 
 The Hospital Emergency Room Dashboard is an interactive Power BI report developed to analyze Emergency Room (ER) patient data. The dashboard provides valuable insights into patient demographics, hospital operations, and patient experience through interactive visualizations and key performance indicators (KPIs). It is designed to support data-driven decision-making and identify opportunities to improve Emergency Room efficiency.
 
+## Dataset
+
+This project uses the Hospital ER Dataset.
+
+- Source: Kaggle – [Hospital ER Dataset](https://www.kaggle.com/datasets/ishaandeshpande26/hospital-er-dataset)
+- License: MIT License
+- Purpose: The dataset is used for educational and portfolio purposes to demonstrate data analysis and Power BI dashboarding skills.
+
 ## Business Objectives
 
 This dashboard was developed to answer the following business questions:
